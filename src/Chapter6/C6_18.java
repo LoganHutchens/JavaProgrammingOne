@@ -29,7 +29,7 @@ public class C6_18 {
     /**
      * Method to check password
      *
-     * @param password arguments from command line prompt
+     * @param password the password you are checking
      * @return true or false depending on if password meets requirements
      */
     public static boolean checkPassword(String password) {

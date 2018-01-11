@@ -95,8 +95,8 @@ public class P6 {
     /**
      * Method to convert dollars to currency
      *
-     * @param dollar
-     * @param currency
+     * @param dollar the amount of dollars you have
+     * @param currency the type of currency you want to convert to
      * @return total amount of new currency
      */
     public static double convert(double dollar, double currency) {
