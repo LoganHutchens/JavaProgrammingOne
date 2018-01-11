@@ -2,8 +2,6 @@ package Chapter3;
 
 import java.util.Scanner;
 
-
-
 /**
  * Program to check whether a number is divisible by 5, 6, or both
  *
