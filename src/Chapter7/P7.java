@@ -3,7 +3,7 @@ package Chapter7;
 import java.util.Scanner;
 
 /**
- * Program to convert dollars to another currency
+ * Program to fill and print an array
  *
  * @author Logan Hutchens
  */
